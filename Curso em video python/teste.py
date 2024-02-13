@@ -1,2 +1,1 @@
-for c in range (10):
-    print(c)
+print(f'{"ola":=^30}')
