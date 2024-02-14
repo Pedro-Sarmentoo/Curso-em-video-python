@@ -1,6 +1,2 @@
-tupla = [5,8,1,5,87,2]
-tupla.append(15)
-tupla.insert(0,12)
-print(tupla)
-tupla.pop()
-print(tupla)
+for c in range (6,0,-1):
+    print(c)
